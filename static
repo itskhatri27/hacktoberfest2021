@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>timetable</title>
+
+</head>
+<body>
+    <img src="img\Marwadi-Logo-768x461-removebg-preview.png" alt="" style="width: 250px;" >
+    <table width="50%" border="0" align="center" cellpadding="3" cellspacing="0">
+       <caption><strong>FACULTY OF TECHNOLOGY</strong><br><strong>DEPARTMENT OF COMPUTER ENGINEERING</strong></caption> 
+       <tr>
+            
+            <td>ClassRoom:-MB304</td>
+            <td colspan="6"> </td>
+            <td>W.E.Date:-22/03/2021</td>
+        </tr>
+        <tr>
+           <td>Semester:IV</td>
+           <td colspan="6"></td>
+           <td>Class:-4TC1</td>
+        </tr>
+        <tr>
+            <td>Class Coordinator:-</td>
+            <td>Prof.</td>
+            <td>Ankita Chavda</td>
+            <td>(Cabin</td>
+            <td>No.MA259,</td>
+            <td>Ext.No.</td>
+            <td>1270)</td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> </td>
+        </tr>
+    </table>
